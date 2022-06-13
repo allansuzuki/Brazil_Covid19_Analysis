@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-allansuzuki-red.svg)](https://www.linkedin.com/in/allanysuzuki/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/allansuzuki/AirbnbPT_Analisys/issues)
 
 <p align="center">
-  <img src='https://img.freepik.com/vetores-gratis/fundo-realista-de-coronavirus_1393-281.jpg?t=st=1655141846~exp=1655142446~hmac=1ccd9886618f7348a610c52b46fb9428ffd302f3887765c2b0af36985de6fa4d&w=740' alt='COVID-19 virus'>
+  <img src='https://img.freepik.com/vetores-gratis/fundo-realista-de-coronavirus_1393-281.jpg?t=st=1655141846~exp=1655142446~hmac=1ccd9886618f7348a610c52b46fb9428ffd302f3887765c2b0af36985de6fa4d&w=740' alt='COVID-19 virus' width=300rm>
 </p>
 
 ## COVID-19 Background in Brazil
